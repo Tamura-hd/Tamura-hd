@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://github.com/Tamura-hd/Tamura-hd/wiki/images/banner.png" />
+</div>
+
 ### Hi there 👋
 
 😄 I’m a web develop.  
