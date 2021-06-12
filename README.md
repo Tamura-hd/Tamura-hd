@@ -62,10 +62,10 @@ Devops and databases
 
 ## Activity ##
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="top" src="https://github-readme-stats.vercel.app/api?username=Tamura-hd&theme=vue&show_icons=true" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api?theme=vue&username=Tamura-hd&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tamura-hd&theme=vue&layout=compact" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?theme=vue&username=Tamura-hd&layout=compact" />
 </a>
 
 
