@@ -33,6 +33,7 @@ And personal skills
 ![Django](https://img.shields.io/badge/-Django-lightgray?logo=django)&nbsp;
 ![Debian](https://img.shields.io/badge/-Debian-lightgray?logo=debian)&nbsp;
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-lightgray?logo=ubuntu)&nbsp;
+![Heroku](https://img.shields.io/badge/-Heroku-lightgray?logo=heroku)&nbsp;
 ![Swift](https://img.shields.io/badge/-Swift-lightgray?logo=swift)&nbsp;
 
 Devops and databases  
