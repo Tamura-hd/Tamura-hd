@@ -1,5 +1,6 @@
 <div align="center">
   <img src="https://github.com/Tamura-hd/Tamura-hd/wiki/images/banner.png" />
+  <img align="right" src="https://komarev.com/ghpvc/?username=Tamura-hd&color=green" />
 </div>
 
 ### Hi there 👋
