@@ -12,21 +12,23 @@ I want to improve frontend, and so trying ui frameworks. My favorite quasar😄.
 
 ## Teck stack ##
 Programming Languages  
-![C#](https://img.shields.io/badge/-C%23-%230099CC?logo=c-sharp)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%230099CC?logo=javascript)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML5-%230099CC?logo=html5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-%230099CC?logo=css3)&nbsp;  
+![TypeScript](https://img.shields.io/badge/-TypeScript-%230099CC?logo=typescript)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-%230099CC?logo=html5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-%230099CC?logo=css3)&nbsp;
+![SCSS](https://img.shields.io/badge/-SCSS-%230099CC?logo=sass)&nbsp;
+![C#](https://img.shields.io/badge/-C%23-%230099CC?logo=c-sharp)&nbsp;  
 Frameworks  
-![ASP.NET Core](https://img.shields.io/badge/-ASP.NET%20Core-lightgray?logo=dot-net)&nbsp;
 ![Vue.js](https://img.shields.io/badge/-Vue.js-lightgray?logo=vue-dot-js)&nbsp;
+![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-lightgray?logo=nuxt-dot-js)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-lightgray?logo=bootstrap)&nbsp;
+![ASP.NET Core](https://img.shields.io/badge/-ASP.NET%20Core-lightgray?logo=dot-net)&nbsp;
 ![BootstrapVue](https://img.shields.io/badge/-BootstrapVue-lightgray)&nbsp;
 ![EntityFramework](https://img.shields.io/badge/-EntityFramework-lightgray)&nbsp;  
 Other tools  
 ![Git](https://img.shields.io/badge/-Git-%230099CC?logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-%230099CC?logo=github)&nbsp;
-![GitLab](https://img.shields.io/badge/-GitLab-%230099CC?logo=gitlab)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-VisualStudioCode-%230099CC?logo=visual-studio-code)&nbsp;
+![Serverless Framework](https://img.shields.io/badge/-Serverless%20Framework-%230099CC?logo=serverless)&nbsp;
 ![Visual Studio](https://img.shields.io/badge/-VisualStudio-%230099CC?logo=visual-studio)&nbsp;  
 And personal skills  
 ![Linux](https://img.shields.io/badge/-Linux-lightgray?logo=linux)&nbsp;
